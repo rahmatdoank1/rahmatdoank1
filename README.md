@@ -10,7 +10,7 @@
    - Asistant Laboratorium of Few of Labs
 
 ## Work Experience:
-#### PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
+#### Adsterra| Data Specialist
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using Python and VBA Excel for day-to-day routine

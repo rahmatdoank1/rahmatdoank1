@@ -10,10 +10,10 @@
    - Asistant Laboratorium of Few of Labs
 
 ## Work Experience:
-#### Adsterra| Data Specialist
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
+#### Adsterra | Data Specialist
+   - Integrate Direct Link Plan
    - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
+   - Responsible to Gaining Plan with Forecasts Data Science
 ---
 
 ### Languages and Tools:
@@ -31,18 +31,15 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
+[![website](./img/youtube-light.svg)][webdev]
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)][webdev]
+[![website](./img/twitter-dark.svg)][webdev]
+[![website](./img/linkedin-light.svg)][webdev]
+[![website](./img/linkedin-dark.svg)][webdev]
+[![website](./img/instagram-light.svg)][webdev]
+[![website](./img/instagram-dark.svg)][webdev]
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/rahmatdoank1

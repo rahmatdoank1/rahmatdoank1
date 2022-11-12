@@ -1,4 +1,4 @@
-# Hi there, I'm Rahmat - aka [bangmamettt](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Rahmat - aka [bangmamettt](https://www.youtube.com/c/bangmamettt) 👋
 ## About me:
 - 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
 - 🌱 I’m currently learning Python and Javascript

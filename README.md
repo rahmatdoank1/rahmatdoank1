@@ -32,7 +32,7 @@
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)][webdev]
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/youtube-dark.svg)][webdev]
 [![website](./img/twitter-light.svg)][webdev]
 [![website](./img/twitter-dark.svg)][webdev]
 [![website](./img/linkedin-light.svg)][webdev]

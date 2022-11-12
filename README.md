@@ -2,7 +2,6 @@
 ## About me:
 - 🔭 I’m currently working at Freelance of Data Scientist
 - 💬 Ask me about anything
-- 📫 How to reach me: rahmatdoank1@gmail.com
 
 ## Education:
 

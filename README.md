@@ -7,7 +7,7 @@
 ## Education:
 
 #### 1. Universitas Lampung | Bachelor of Engineering | Graduated on 2016
-   - President of American Association of Petroleum Geologists 'University of Lampung's Student Chapter'
+   - President - American Association of Petroleum Geologists 'University of Lampung's Student Chapter'
 
 ## Work Experience:
 #### Adsterra | Data Specialist
